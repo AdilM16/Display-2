@@ -1,13 +1,12 @@
-
 .bloc{
     display: flex;
 }
 .item{
     justify-content: center;
     align-items: center;
-    background-color:red;
+    background-color:blueviolet;
     height: 100px;
     width: 100%;
     margin: 5px;
-    display:flex;
+    display: flex;
 }
